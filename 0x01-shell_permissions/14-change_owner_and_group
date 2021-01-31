@@ -1,2 +1,2 @@
 #!/bin/bash
-owner betty:holberton *
+chown betty:holberton *
